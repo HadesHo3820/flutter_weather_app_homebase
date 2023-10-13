@@ -48,8 +48,8 @@ dependencies:
   dartz: ^0.10.1
 
   # Remote API
-  connectivity_plus: ^5.0.0
   http: ^1.1.0
+  internet_connection_checker: ^1.0.0+1
 
   # Local cache
   shared_preferences: ^2.2.2
